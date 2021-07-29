@@ -1,4 +1,4 @@
-package com.example.javasedemo.java8;
+package com.example.javasedemo.java8.fuction;
 
 import org.junit.Test;
 

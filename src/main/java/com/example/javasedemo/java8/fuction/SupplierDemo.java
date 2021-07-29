@@ -1,11 +1,10 @@
-package com.example.javasedemo.java8;
+package com.example.javasedemo.java8.fuction;
 
 import org.junit.Test;
 
 import java.time.LocalDateTime;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.function.Consumer;
 import java.util.function.Supplier;
 
 /**
